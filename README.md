@@ -15,7 +15,6 @@ Languages: Python, C, SQL
 Learning: OpenGL, Flet, Data Science, HTML, CSS, JS
 Hobbies: Music Production, Gym, Gaming
 Discord: Otter#5761
-Website: solo.to/shameful
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
