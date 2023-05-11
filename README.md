@@ -1,27 +1,23 @@
-# Welcome to my GitHub Profile !
-
+```bash
+> neofetch
 ```
-██████  ██████  ██ ███████ ████████ ██ ███    ██  ██████   ██████  ████████ ████████ ███████ ██████             ██  
-██   ██ ██   ██ ██ ██         ██    ██ ████   ██ ██       ██    ██    ██       ██    ██      ██   ██         ██  ██ 
-██   ██ ██████  ██ █████      ██    ██ ██ ██  ██ ██   ███ ██    ██    ██       ██    █████   ██████              ██ 
-██   ██ ██   ██ ██ ██         ██    ██ ██  ██ ██ ██    ██ ██    ██    ██       ██    ██      ██   ██         ██  ██ 
-██████  ██   ██ ██ ██         ██    ██ ██   ████  ██████   ██████     ██       ██    ███████ ██   ██            ██  
+
+<img align="left" src="https://avatars.githubusercontent.com/u/112343623?v=4" width="320" /> 
+
+```csharp
+driftingotter@github
+-------------------------
+OS: Arco Linux B x86_64
+Shell: bash 5.1
+Pronouns: He/Him
+Location: Gurugram, IN
+Languages: Python, C, SQL
+Learning: OpenGL, Flet, Data Science, HTML, CSS, JS
+Hobbies: Music Production, Gym, Gaming
+Discord: Otter#5761
+Website: solo.to/shameful
 ```
-## About Me
-Hi I'm Daksh Kaul aka. DrifitingOtter, I've been coding for not too long now, but for the time I have... I have really enjoyed it !
-I'm hoping to persue a carrer in data science and or software developement.
-
-Currently, I am focused on learning __Python, C, and Data Science__. 
-
-_Let's hope this goes somewere..._
-
-## Projects
-Some of the projects I have been working on! Check out my repositories to see what I have been up to.
-
-## Skills
-- Python
-- C
-- Data Science
-
-## Contact Me
-Feel free to reach out to me to connect and collaborate!
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
+</p>
