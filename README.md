@@ -1,5 +1,5 @@
 ```bash
-> neofetch
+> smplFetch
 ```
 
 <img align="left" src="https://avatars.githubusercontent.com/u/112343623?v=4" width="320" /> 
@@ -11,7 +11,7 @@ OS: Arco Linux B x86_64
 Shell: bash 5.1
 Pronouns: He/Him
 Location: Gurugram, IN
-Languages: Python, C, SQL
+Languages: Python, C, SQL, Streamlit (framework*)
 Learning: OpenGL, Flet, Data Science, HTML, CSS, JS
 Hobbies: Music Production, Gym, Gaming
 Discord: Otter#5761
