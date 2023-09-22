@@ -7,11 +7,11 @@
 ```csharp
 driftingotter@github
 -------------------------
-OS: Arco Linux B x86_64
+OS: Arco Linux B x86_64 | Hyprland
 Shell: bash 5.1
 Pronouns: He/Him
 Location: Gurugram, IN
-Languages: Python, C, SQL, Streamlit (framework*)
+Languages: Python, C, SQL, HTML, CSS, Flet
 Learning: OpenGL, Flet, Data Science, HTML, CSS, JS
 Hobbies: Music Production, Gym, Gaming
 Discord: Otter#5761
