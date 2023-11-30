@@ -8,11 +8,11 @@
 driftingotter@github
 -------------------------
 OS: Arco Linux B x86_64 | Hyprland
-Shell: bash 5.1
+Shell: zsh 5.9
 Pronouns: He/Him
 Location: Gurugram, IN
 Languages: Python, C, SQL, HTML, CSS
-Learning: OpenGL, Flet, Data Science, HTML, CSS, JS
+Learning: OpenGL, Go, & Rust
 Hobbies: Music Production, Gym, Gaming
 Discord: Otter#5761
 ```
