@@ -11,8 +11,8 @@ OS: Arco Linux B x86_64 | Hyprland
 Shell: zsh 5.9
 Pronouns: He/Him
 Location: Gurugram, IN
-Languages: Python, C, SQL, HTML, CSS, JS, C++
-Learning: Slint, C++, and X86 asm
+Languages: Python, C, SQL, HTML, CSS, JS, C++, Rust
+Learning: Burn, C++, and Rust
 Hobbies: Music Production, Gym, Gaming
 Discord: Otter#5761
 ```
