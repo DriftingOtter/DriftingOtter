@@ -7,7 +7,7 @@
 ```csharp
 driftingotter@github
 -------------------------
-OS: Arco Linux B x86_64 | Hyprland
+OS: openSUSE Tumbleweed | sway
 Shell: zsh 5.9
 Pronouns: He/Him
 Location: Gurugram, IN
