@@ -10,9 +10,9 @@ driftingotter@github
 OS: openSUSE Tumbleweed | sway
 Shell: zsh 5.9
 Pronouns: He/Him
-Location: Gurugram, IN
+Location: New Jersey, USA
 Languages: Python, C, SQL, HTML, CSS, JS, C++, Rust
-Learning: Burn, C++, and Rust
+Learning: C++, Rust, and Digital Signal Processing
 Hobbies: Music Production, Gym, Gaming
 Discord: Otter#5761
 ```
