@@ -5,16 +5,15 @@
 <img align="left" src="https://avatars.githubusercontent.com/u/112343623?v=4" width="320" /> 
 
 ```csharp
-driftingotter@github
+DriftingOtter@github
 -------------------------
-OS: openSUSE Tumbleweed | sway
-Shell: zsh 5.9
+OS: Arch x86_64 | hyprland
 Pronouns: He/Him
 Location: New Jersey, USA
-Languages: Python, C, SQL, HTML, CSS, JS, C++, Rust
-Learning: C++, Rust, and Digital Signal Processing
-Hobbies: Music Production, Gym, Gaming
-Discord: Otter#5761
+Languages: Python, C/C++, SQL, HTML, CSS, JS, Rust, Java
+Software: KiCAD, AutoDesk Fusion, Abelton, Davinci Resolve, VituixCAD
+Learning: Java, Rust, and Signal Processing. 
+Hobbies: Boxing/Gym, Music Production, IEMs, and counting...
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
