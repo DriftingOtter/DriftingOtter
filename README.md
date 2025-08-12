@@ -2,18 +2,18 @@
 > smplFetch
 ```
 
-<img align="left" src="https://avatars.githubusercontent.com/u/112343623?v=4" width="320" /> 
+<img align="left" src="https://avatars.githubusercontent.com/u/112343623?v=4" width="320" />
 
 ```csharp
-DriftingOtter@github
+DakshKaul@github
 -------------------------
-OS: Arch x86_64 | hyprland
-Pronouns: He/Him
-Location: New Jersey, USA
-Languages: Python, C/C++, SQL, HTML, CSS, JS, Rust, Java
-Software: KiCAD, AutoDesk Fusion, Abelton, Davinci Resolve, VituixCAD
-Learning: Java, Rust, and Signal Processing. 
-Hobbies: Boxing/Gym, Music Production, IEMs, and counting...
+Location: Piscataway, NJ, USA [cite: 2]
+Contact: dk1293@scarletmail.rutgers.edu [cite: 2]
+LinkedIn: [Your LinkedIn Profile URL]
+Languages: Java, Python, C, Rust, SQL, HTML/CSS/JS [cite: 7]
+Frameworks & Tools: Linux, Git, Flutter, MariaDB, Autodesk Fusion 360, Ableton, DaVinci Resolve 
+Specialties: Full-Stack Development, Digital Signal Processing, Low-latency Systems, PCB design
 ```
+
 <p align="left">
 </p>
