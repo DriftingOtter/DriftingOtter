@@ -16,7 +16,7 @@
 
 🌍 &nbsp;**Location** &nbsp;&nbsp;&nbsp;&nbsp; Piscataway, NJ, USA  
 🎓 &nbsp;**Education** &nbsp;&nbsp; B.S. Computer Science, Mathematics Minor  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rutgers University — New Brunswick _(May 2027)_  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rutgers University — New Brunswick _(May 2027)_  
 📧 &nbsp;**Contact** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; dk1293@scarletmail.rutgers.edu
 
 ---
