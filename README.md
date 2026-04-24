@@ -6,7 +6,7 @@
 
 </div>
 
-<img align="left" src="https://avatars.githubusercontent.com/u/112343623?v=4" width="200" style="border-radius: 12px; margin-right: 20px;" />
+<img align="left" src="https://i.postimg.cc/c4PL4PyF/NYC-Building-2.png" width="200" style="border-radius: 12px; margin-right: 20px;" />
 
 <div align="left">
 
